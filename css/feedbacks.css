@@ -1,0 +1,36 @@
+.feedbacks {
+  padding: 40px 0;
+  background: #eee;
+}
+
+.feedbacks-posts {
+  padding-top: 40px;
+}
+
+.posts-image {
+  display: inline-block;
+  float: left;
+  width: 160px;
+}
+
+.client-photo {
+  border: 5px solid #E6CA7E;
+  border-radius: 100%;
+  width: 150px;
+  height: auto;
+}
+
+.post-details {
+  display: inline-block;
+  max-width: 270px;
+  margin-left: 20px;
+}
+
+.post-details .text-small {
+  display: block;
+  color: #8E4D99;
+}
+
+.post-details .text-medium {
+  margin-bottom: 20px;
+}
