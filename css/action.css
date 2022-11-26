@@ -1,0 +1,10 @@
+.action {
+  padding: 40px 0;
+  background: #f2f2f2;
+}
+
+.action-image {
+  border-radius: 10px;
+  width: 300px;
+  height: auto;
+}
